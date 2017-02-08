@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 6, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mary Bean
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I learned the basics of java script and how to use the language to create a monthly expense report calculator. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://marybean.github.io/lesson4_javascript/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript is a client side scripting language, or rather it is executed in the software the viewer is using. 
+2. JavaScript and Java are two completely different languages, they are NOT the same. 
+3. There are two ways to add JavaScript to web pages. You can either embed the Java Script tag in HTML code, or you can embed JavaScript in an external file. 
